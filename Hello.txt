@@ -1,9 +1,11 @@
 Halo Nama saya Muhammad Asandy Putra
 
 Ini perubahan yang dibuat oleh saya Asandy2
-====
-commit 1
-====
-commit 2
+===========
+ini perubahan yang telah disesuaikan setelah melakukan fork
 =====
-commit 3
+melakukan commit 1
+=====
+melakukan commit 2
+=====
+melakukan commit 3
