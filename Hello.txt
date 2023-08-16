@@ -9,7 +9,3 @@ melakukan commit 1
 melakukan commit 2
 =====
 melakukan commit 3
-
-
----
-tolong di review
